@@ -26,10 +26,10 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085806240904
+Number: 083849469400
 
 *Payment Dana*
-Number: 085806240904
+Number: 083849469400
 
 *Payment Gopay*
 Number: ----
@@ -44,18 +44,18 @@ ${monoSpace} berapapun donasi dari kalian itu sangat berarti bagi kami ^_^${mono
 exports.infoOwner = () =>{
 return`──「 *DATA PROFIL OWNER* 」──
 
- ⬣ *Nama :* Rama 
+ ⬣ *Nama :* ega-ganteng 
  ⬣ *Umur :* Privv
- ⬣ *Hoby. :* Turu/Game
- ⬣ *Asal   :* Jatim - Lamongan
+ ⬣ *Hoby. :* Turu/Game/nobar
+ ⬣ *Asal   :* sumut - medan
  ⬣ *Status:* Creator
  ⬣ *Zodiak:* Gk tau
 
                   「 *SOSIAL MEDIA*」
- ⬣ *Whatsapp:* 085791220179
- ⬣ *Youtube:* Ramaa Gnnz
- ⬣ *Github:* ---
- ⬣ *Tiktok:* ---
+ ⬣ *Whatsapp:* 083849469400
+ ⬣ *Youtube:* ftv lovers
+ ⬣ *Github:* Doramisi1
+ ⬣ *Tiktok:* kepo
  ⬣ *Instagram:* ---
  `
 }
