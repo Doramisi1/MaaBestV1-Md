@@ -9,7 +9,7 @@
   "author": "Ramaa gnnz",
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/baileys": "github:adiwajshing/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^3.0.0",
     "chalk": "^4.1.2",
